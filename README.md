@@ -1,19 +1,18 @@
-Bem-vindo ao meu Perfil do GitHub! 👋
-
-Olá, eu sou Carlos Lima e um entusiasta da programação.
+Olá! Eu sou Carlos Lima, um entusiasta da programação!👋
 
 Sou Desenvolvedor Fullstack, com foco em desenvolvimento web e na criação de experiências digitais modernas, funcionais e responsivas.
 
-Tenho trabalhado em projetos próprios para desenvolver minhas habilidades em JavaScript, React e TypeScript, aprimorando a organização do código, 
-a componentização e as boas práticas de desenvolvimento.
+Tenho desenvolvido projetos próprios para aprimorar minhas habilidades técnicas, consolidar meus conhecimentos e aplicar boas práticas de desenvolvimento, priorizando código organizado, componentização e facilidade de manutenção.
 
-Utilizo Git e GitHub para versionar meus projetos e acompanhar sua evolução, buscando construir soluções cada vez mais bem estruturadas e fáceis de manter.
+Tecnologias e ferramentas:
 
-Meu objetivo é continuar evoluindo tecnicamente e contribuir com projetos de desenvolvimento web.
+- Front-end: HTML, CSS, JavaScript e React;
+- Em desenvolvimento: TypeScript e outras tecnologias voltadas ao desenvolvimento web;
+- Versionamento: Git e GitHub;
 
-- Linguagens de Programação: JavaScript, TypeScript;
-- Frameworks: React;
-- Ferramentas e Tecnologias: Git;
+Meu objetivo é continuar evoluindo tecnicamente como desenvolvedor Fullstack, aprofundando meus conhecimentos e contribuindo para projetos que valorizem 
+qualidade de código, aprendizado contínuo e boas práticas.
 
 - LinkedIn: www.linkedin.com/in/carloseduardocl
+- Portfólio: https://carlos-lima-portfolio-five.vercel.app/
 - Email: dudu_ecl@hotmail.com
