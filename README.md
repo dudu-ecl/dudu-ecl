@@ -1,6 +1,7 @@
 Bem-vindo ao meu Perfil do GitHub! 👋
 
 Olá, eu sou Carlos Lima e um entusiasta da programação.
+
 Sou Desenvolvedor Fullstack, com foco em desenvolvimento web e na criação de experiências digitais modernas, funcionais e responsivas.
 
 Tenho trabalhado em projetos próprios para desenvolver minhas habilidades em JavaScript, React e TypeScript, aprimorando a organização do código, 
