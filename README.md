@@ -1,7 +1,14 @@
 Bem-vindo ao meu Perfil do GitHub! 👋
 
-Olá, eu sou Carlos Eduardo, um entusiasta da programação apaixonado por Desenvolvimento Web (HTML, CSS e JavaScript). 
-Atualmente, estou a procura de desafios na area de desenvolvimento web. Já trabalhei como suporte técnico e ja fui desenvolvedor estagiário.
+Olá, eu sou Carlos Lima e um entusiasta da programação.
+Sou Desenvolvedor Fullstack, com foco em desenvolvimento web e na criação de experiências digitais modernas, funcionais e responsivas.
+
+Tenho trabalhado em projetos próprios para desenvolver minhas habilidades em JavaScript, React e TypeScript, aprimorando a organização do código, 
+a componentização e as boas práticas de desenvolvimento.
+
+Utilizo Git e GitHub para versionar meus projetos e acompanhar sua evolução, buscando construir soluções cada vez mais bem estruturadas e fáceis de manter.
+
+Meu objetivo é continuar evoluindo tecnicamente e contribuir com projetos de desenvolvimento web.
 
 - Linguagens de Programação: JavaScript, TypeScript;
 - Frameworks: React;
