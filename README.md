@@ -1,4 +1,4 @@
-Olá! Eu sou Carlos Lima, um entusiasta da programação!👋
+Olá! Eu sou Carlos Lima!👋
 
 Sou Desenvolvedor Fullstack, com foco em desenvolvimento web e na criação de experiências digitais modernas, funcionais e responsivas.
 
@@ -7,11 +7,10 @@ Tenho desenvolvido projetos próprios para aprimorar minhas habilidades técnica
 Tecnologias e ferramentas:
 
 - Front-end: HTML, CSS, JavaScript e React;
-- Em desenvolvimento: TypeScript e outras tecnologias voltadas ao desenvolvimento web;
+- Em desenvolvimento: TypeScript e tecnologias de Back-end;
 - Versionamento: Git e GitHub;
 
-Meu objetivo é continuar evoluindo tecnicamente como desenvolvedor Fullstack, aprofundando meus conhecimentos e contribuindo para projetos que valorizem 
-qualidade de código, aprendizado contínuo e boas práticas.
+Meu objetivo é continuar evoluindo tecnicamente como Desenvolvedor Fullstack, aprofundando meus conhecimentos e aplicando boas práticas na construção de projetos web.
 
 - LinkedIn: www.linkedin.com/in/carloseduardocl
 - Portfólio: https://carlos-lima-portfolio-five.vercel.app/
